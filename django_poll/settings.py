@@ -70,7 +70,7 @@ DATABASES = {
         'NAME': dbname(),
         'USER': dbuser(),
         'PASSWORD': dbpass(),
-        'HOST': 127.0.0.1,
+        'HOST': '127.0.0.1',
     }
 }
 # Internationalization
